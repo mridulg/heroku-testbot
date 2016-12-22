@@ -1,2 +1,2 @@
 # Echobot
-Basic django app to echo text 
+Basic django app to echo text.
