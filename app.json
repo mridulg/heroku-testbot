@@ -1,0 +1,8 @@
+{
+	"name": "Heroku-Testbot",
+	"description": "A basic django app to echo text.",
+	"image": "heroku/python",
+	"repository": "https://github.com/mridulg/heroku-testbot",
+	"keywords": ["python", "django" ],
+	// "addons": [ "heroku-postgresql" ]
+}
